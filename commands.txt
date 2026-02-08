@@ -1,0 +1,35 @@
+ 2 python -m venv venv
+   3 python -m venv venv --without-pip...
+   4 venv\Scripts\activate...
+   5 python -m ensurepip --upgrade...
+   6 python -m pip install --upgrade pip...
+   7 pip install strands-agent
+   8 pip install strands-agents
+   9 pip install strands-agents-tools
+  10 pip install 'strands-agents[ollama]'
+  11 python agent.py
+  12 python agent.py
+  13 python agent.py
+  14 clear
+  15 python agent.py
+  16 python agent.py
+  17 cledar
+  18 clear
+  19 python agent.py
+  20 python agent.py
+  21 python agent.py
+  22 python agent.py
+  23 python agent.py
+  24 python agent.py
+  25 python agent.py
+  26 python agent.py
+  27 clear
+  28 python agent.py
+  29 python agent.py
+  30 python agent.py
+  31 python agent.py
+  32 python agent.py
+  33 python agent.py
+  34 git clone https://github.com/LondheShubham153/strands-temporal-agents.git
+  35 temporal server start -dev
+  36 temporal server start -dev
